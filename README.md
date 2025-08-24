@@ -17,8 +17,9 @@ python3 autoinject.py
 ```
 
 ## Créditos
- Autor: devjhonatan
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devjhonatan08/)
+
+- **Autor:** Devjhona08
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devjhonatan08/)
 
 ## Soporte
 
