@@ -2,10 +2,11 @@
 Herramienta automática para escanear puertos y servicios con Nmap y realizar pruebas de injección SQL con SQLmap.
 Es la solución perfecta si quieres centralizar estas herramientas en una sola aplicación, y si quieres que tus escaneos con nmap se muestren de una forma más visual.
 
-![image](https://github.com/user-attachments/assets/664bd19e-3b5f-4f1f-b7fa-96bc0ad0c2a5)
+![image]([https://github.com/user-attachments/assets/664bd19e-3b5f-4f1f-b7fa-96bc0ad0c2a5](https://github.com/user-attachments/assets/bb27961b-6ade-4476-9c1a-66edbd637d72))
+```
 
 ## Instalación y uso
-```
+
 git clone https://github.com/afsh4ck/autoinject
 cd autoinject
 sudo chmod 777 autoinject.py requirements.txt
