@@ -1,10 +1,8 @@
 # autoinject
 
-Autoinject es una herramienta de auditoría ofensiva todo-en-uno que integra funcionalidades clave para pruebas de seguridad en redes y aplicaciones web.
+![autoinject banner](https://github.com/user-attachments/assets/bb27961b-6ade-4476-9c1a-66edbd637d72)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Status](https://img.shields.io/badge/status-active-success)
-![License](https://img.shields.io/badge/license-MIT-green)
+Autoinject es una herramienta de auditoría ofensiva todo-en-uno que integra funcionalidades clave para pruebas de seguridad en redes y aplicaciones web.
 
 Con una interfaz interactiva y resultados exportables, permite:
 
@@ -18,7 +16,9 @@ Con una interfaz interactiva y resultados exportables, permite:
 
 Su objetivo es centralizar en una sola herramienta el flujo básico de una auditoría de seguridad: desde el reconocimiento de la superficie de ataque hasta la detección de vulnerabilidades en bases de datos.
 
-![autoinject banner](https://github.com/user-attachments/assets/bb27961b-6ade-4476-9c1a-66edbd637d72)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Status](https://img.shields.io/badge/status-active-success)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
@@ -37,7 +37,7 @@ El autor no se hace responsable de cualquier daño, pérdida o consecuencia deri
 ```bash
 git clone https://github.com/Devjhona08/SqlInjection.git
 cd SqlInjection
-sudo chmod 777 autoinject.py requirements.txt
+sudo chmod +x autoinject.py
 pip install -r requirements.txt
 python3 autoinject.py
 ```
@@ -45,7 +45,8 @@ python3 autoinject.py
 ## Créditos
 
 - **Autor:** Devjhona08
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devjhonatan08/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devjhonatan08/)
 
 ## Soporte
 
