@@ -17,6 +17,7 @@ Con una interfaz interactiva y resultados exportables, permite:
 Su objetivo es centralizar en una sola herramienta el flujo básico de una auditoría de seguridad: desde el reconocimiento de la superficie de ataque hasta la detección de vulnerabilidades en bases de datos.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-Injection-red?logo=databricks)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
